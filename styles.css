@@ -4,14 +4,14 @@
 }
 
 body {
-    background-color: slategray;
+    background-color: rebeccapurple;
 }
 
 
 /* Header Styles */
 .container {
     display: flex;
-    background-color: skyblue;
+    background-color:skyblue;
     width: 90%;
     justify-content: space-between;
     padding-left: 20px;
